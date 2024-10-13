@@ -1,4 +1,4 @@
-
+import numpy
 
 def discriminant(a, b, c):
     '''Функция вычисления дискриминанта'''
