@@ -29,3 +29,6 @@ solve(1, 0, 5)
 
 solve(2, 10, 5)
 
+
+def Test():
+    pass
